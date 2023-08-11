@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * maine - entry point 
+ * maine - entry point
  *
  * Description: print all alphabet letters
  *
@@ -10,12 +10,13 @@
 int main(void)
 {
 		char ch = 'a';
+
 		while (ch <= 'z')
 		{
 			putchar(ch);
 			ch++;
 		}
-		putchar('\n');
+		putchar ('\n');
 
 		return (0);
-}	
+}
