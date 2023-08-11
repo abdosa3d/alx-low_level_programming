@@ -6,6 +6,7 @@
  *
  * Return: Always o (success)
 */
+
 int main(void)
 {
 		char ch = 'a';
@@ -15,5 +16,6 @@ int main(void)
 			ch++;
 		}
 		putchar('\n');
-	Return (0);
+
+		Return (0);
 }	
