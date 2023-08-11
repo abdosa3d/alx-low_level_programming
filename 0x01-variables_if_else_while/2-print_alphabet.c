@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * maine - entry point
+ * main - entry point
  *
  * Description: print all alphabet letters
  *
