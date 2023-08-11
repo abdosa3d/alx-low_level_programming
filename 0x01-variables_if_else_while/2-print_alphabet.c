@@ -11,8 +11,9 @@ int main(void)
 		char ch = 'a';
 		while (ch <= 'z')
 		{
-			putchai(ch);
+			putchar(ch);
 			ch++;
 		}
 		putchar('\n');
-	Return (0);	
+	Return (0);
+}	
